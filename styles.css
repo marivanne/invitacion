@@ -31,6 +31,8 @@ p {
   transition: transform 1s ease;
   margin-right: 2%;
   margin-left: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
 }
 .card {
   position: absolute;
