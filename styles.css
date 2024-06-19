@@ -10,6 +10,7 @@ body {
   align-items: center;
   height: 100vh;
   background-color: #f0f0f0;
+  
 }
 
 h2 {
@@ -28,6 +29,8 @@ p {
   height: 225px;
   perspective: 1000px;
   transition: transform 1s ease;
+  margin-right: 2%;
+  margin-left: 2%;
 }
 .card {
   position: absolute;
