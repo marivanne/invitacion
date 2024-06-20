@@ -89,13 +89,13 @@ p {
   padding-left: 30%;
   padding-right: 30%;
   text-align: center;
-  font-size: 8px;
+  font-size: 6px;
   color: #202020;
 }
 
 .card__front-content-1 h2 {
   /* Estilos para el encabezado h2 */
-  font-size: 18px;
+  font-size: 16px;
   padding-top: 5%;
   color: #000000;
   font-weight: 300;
@@ -103,7 +103,7 @@ p {
 
 .card__front-content-1 p:last-child {
   /* Estilos para el último párrafo */
-  font-size: 30px;
+  font-size: 28px;
   color: #000000;
   font-weight: 700;
 }
@@ -116,14 +116,14 @@ p {
 }
 
 .card__content {
-  padding: 40px;
+  padding: 38px;
   text-align: center;
 }
 
 .flip-btn {
   margin-top: 20px;
   padding: 10px 20px;
-  font-size: 16px;
+  font-size: 14px;
   background-color: #4CAF50;
   color: white;
   border: none;
@@ -153,12 +153,12 @@ p {
   align-items: center;
 }
 .is-open .card__center-content h2{
-  font-size: 25px;
+  font-size: 23px;
   color: #18366d;
   font-weight: 700;
 }
 .is-open .card__center-content p {
-  font-size: 13px;
+  font-size: 11px;
   padding-top: 2%;
   text-align: center;
   padding-left: 10%;
@@ -174,7 +174,7 @@ p {
 
 .is-open .card__front-content-2 h2:first-child{
   float: left;
-  font-size: 30px;
+  font-size: 28px;
   color: #18366d;
   font-weight: 700;
   margin-right: 10px;
@@ -202,13 +202,13 @@ p {
 .is-open .card__back-content h2{
   float: left;
   font-family: 'Cormorant Garamond', serif;
-  font-size: 12px;
+  font-size: 10px;
   font-weight: 300;  
   color: #18366d;
   margin-right: 10px;
 }
 .is-open .card__back-content p {
-  font-size: 12px;
+  font-size: 10px;
   font-weight: 300;
   text-align: justify;
 }
