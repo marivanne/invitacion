@@ -26,6 +26,7 @@ p {
   justify-content: center;
   align-items: center;
   width: 99%;
+  max-width: 423px;
   height: 225px;
   perspective: 1000px;
   transition: transform 1s ease;
