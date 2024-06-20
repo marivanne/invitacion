@@ -25,7 +25,7 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 95%;
+  width: 99%;
   height: 225px;
   perspective: 1000px;
   transition: transform 1s ease;
