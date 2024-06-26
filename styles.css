@@ -166,6 +166,21 @@ p {
   padding-right: 10%;
   color: #000000;
 }
+.fech{
+  display: inherit;
+}
+.der, .izq{
+  padding-top: 15%;
+}
+.cent{
+  display: inline-block;
+}
+.cent p:first-of-type{
+  font-size: 20px;
+}
+.cent p:last-child{
+  font-size: 10px;
+}
 .is-open .card__front-content-2 {
   opacity: 1;
   transform: rotateX(180deg);
